@@ -14,19 +14,48 @@ https://github.com/tjcrone/talks
  - Content and Flow
    - Zero to Xarray
  - Pedagogical Mechanics
- - Data: Too Real or not Too Real?
+ - Platform - Pangeo Yes!
+   - The Great Conda Debacle of 2022
+ - Data: Too Real or Not Too Real?
+ - Assignments, Grading, and Rubrics
+ - Final Projects
  - Other Resources
    - Project Pythia
    - SW Carpentry
- - Platform - Pangeo Yes!
-   - The Great Conda Debacle of 2022
- - Grading and Rubrics
- - Final Projects
- - Next Steps (Advanced Course)
+ - Next Steps
+   - Advanced Course
+   - More Community Engagement
 
 
 <br/><br/> <br/><br/> <br/><br/>
 ## Book (Content and Flow)
  - Taking students from Zero to Xarray
  - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
+ - Calendar
+
+
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+## Pedagogical Mechanics
+
+ - Teaching first-year Earth science graduate students
+ - Coding from scratch
+ - Two monitors / computers
+ - Go really slow!!!
+ - Lecture days and collaborative time each week
+ - Example session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
