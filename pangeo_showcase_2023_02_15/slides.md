@@ -56,7 +56,7 @@ https://github.com/tjcrone/talks
 
 ## Platform
 
- - Pangeo ... Yes!
+ - Pangeo ... Yes! [https://us-central1-b.gcp.pangeo.io/hub/login](https://us-central1-b.gcp.pangeo.io/hub/login)
  - Easy to take Pangeo-like teaching platform for granted
  - The Great Miniconda/Conda Debacle of 2022
 
