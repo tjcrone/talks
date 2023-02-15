@@ -8,6 +8,8 @@ https://github.com/tjcrone/talks
 
 
 <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+---
+
 ## Today's Categories
 
  - Book
@@ -19,12 +21,9 @@ https://github.com/tjcrone/talks
  - Data: Too Real or Not Too Real?
  - Assignments, Grading, and Rubrics
  - Final Projects
- - Other Resources
-   - Project Pythia
-   - SW Carpentry
  - Next Steps
    - Advanced Course
-   - More Community Engagement
+   - More Community Engagement!
 
 
 <br/><br/> <br/><br/>
@@ -78,13 +77,14 @@ https://github.com/tjcrone/talks
  - Final projects are a highlight of the course and super fun
  - Students develop their own projects based on their scientific interest
  - [https://earth-env-data-science.github.io/projects.html](https://earth-env-data-science.github.io/projects.html)
+ - Projects are very advanced considering our starting point
  - [https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb](https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb)
 
 
 <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
 ## Next Steps
 
- - A follow-on advanced course is needed badly
+ - A follow-on advanced course is needed 
  - More community engagement welcomed!!
  - [https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm](https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm)
 
