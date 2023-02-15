@@ -14,9 +14,9 @@ https://github.com/tjcrone/talks
 
  - Book
  - Content and Flow
-   - Zero to Xarray
+   - Zero to Xarray with Pangeo
  - Pedagogical Mechanics
- - Platform - Pangeo Yes!
+ - Platform - Pangeo ... yes!
    - The Great Conda Debacle of 2022
  - Data: Too Real or Not Too Real?
  - Assignments, Grading, and Rubrics
@@ -30,25 +30,28 @@ https://github.com/tjcrone/talks
 ---
 
 ## Book (Content and Flow)
- - Taking students from Zero to Xarray
+
  - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
+ - Used to teach Research Computing in Earth Science at Columbia University
+ - First-year graduate students
+ - Taking students from Zero to Xarray with Pangeo
+ - Lecture days and collaborative time each week
  - Calendar
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
 ---
 
 ## Pedagogical Mechanics
 
  - Teaching first-year Earth science graduate students
  - Coding from scratch
- - Two monitors / computers
+ - Two monitor / computer system
  - Go really slow!!!
- - Lecture days and collaborative time each week
  - Example session
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
 ---
 
 ## Platform
@@ -98,7 +101,7 @@ https://github.com/tjcrone/talks
 
 ## Next Steps
 
- - A follow-on advanced course is needed
+ - A follow-on advanced course is greatly needed
  - More community engagement welcomed!!
  - [https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm](https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm)
 
@@ -106,6 +109,6 @@ https://github.com/tjcrone/talks
 <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
 ---
 
-## Questions?
+## Feelings?
 <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
 
