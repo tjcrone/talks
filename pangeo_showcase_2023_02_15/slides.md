@@ -1,11 +1,10 @@
-<span style="color:blue">some *blue* text
+<span style="color:blue">some *blue* text</span>
 # Lessons Learned Teaching Pangeo in the Classroom
 
 Pangeo Showcase 15 February 2023
 
 Tim Crone (@tjcrone) and Ryan Abernathey (@rabernat)
 
-</span>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 ---
