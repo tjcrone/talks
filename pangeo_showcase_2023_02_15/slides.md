@@ -12,8 +12,8 @@ https://github.com/tjcrone/talks
 
 ## Today's Categories
 
- - Book
- - Content and Flow
+ - Jupyter Book
+ - Content and Flow of the Course
    - Zero to Xarray with Pangeo
  - Pedagogical Mechanics
  - Platform - Pangeo ... yes!
@@ -31,10 +31,10 @@ https://github.com/tjcrone/talks
 
 ## Book (Content and Flow)
 
- - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
  - Used to teach Research Computing in Earth Science at Columbia University
  - First-year graduate students
  - Taking students from Zero to Xarray with Pangeo
+ - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
  - Lecture days and collaborative time each week
  - Calendar
 
@@ -45,7 +45,7 @@ https://github.com/tjcrone/talks
 ## Pedagogical Mechanics
 
  - Teaching first-year Earth science graduate students
- - Coding from scratch
+ - Coding from scratch -- The key to everything!!
  - Two monitor / computer system
  - Go really slow!!!
  - Example session
@@ -102,8 +102,8 @@ https://github.com/tjcrone/talks
 ## Next Steps
 
  - A follow-on advanced course is greatly needed
- - More community engagement welcomed!!
  - [https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm](https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm)
+ - More community engagement welcomed!!
 
 
 <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
