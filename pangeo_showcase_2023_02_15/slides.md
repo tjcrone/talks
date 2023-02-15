@@ -6,8 +6,8 @@ Tim Crone (@tjcrone) and Ryan Abernathey (@rabernat)
 
 https://github.com/tjcrone/talks
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 ## Today's Categories
 
  - Book
