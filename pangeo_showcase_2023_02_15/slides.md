@@ -39,7 +39,7 @@ https://github.com/tjcrone/talks
  - Calendar
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
 ---
 
 ## Pedagogical Mechanics
