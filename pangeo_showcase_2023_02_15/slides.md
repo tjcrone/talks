@@ -27,14 +27,14 @@ https://github.com/tjcrone/talks
    - More Community Engagement
 
 
-<br/><br/> <br/><br/> <br/><br/>
+<br/><br/> <br/><br/>
 ## Book (Content and Flow)
  - Taking students from Zero to Xarray
  - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
  - Calendar
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
 ## Pedagogical Mechanics
 
  - Teaching first-year Earth science graduate students
@@ -45,8 +45,19 @@ https://github.com/tjcrone/talks
  - Example session
 
 
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+## Platform
+
+ - Pangeo ... Yes!
+ - Easy to take Pangeo-like teaching platform for granted
+ - The Great Miniconda/Conda Debacle of 2022
 
 
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+## Data: Too Real or Not Too Real?
+
+ - Almost real ARGO data: [https://earth-env-data-science.github.io/assignments/numpy_matplotlib.html](https://earth-env-data-science.github.io/assignments/numpy_matplotlib.html)
+ - Real hurricane data from NOAA: [https://earth-env-data-science.github.io/assignments/pandas_groupby.html](https://earth-env-data-science.github.io/assignments/pandas_groupby.html)
 
 
 
