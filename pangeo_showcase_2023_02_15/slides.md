@@ -1,19 +1,15 @@
 # Lessons Learned Teaching Pangeo in the Classroom
 
+Pangeo Showcase 15 February 2023
+
 Tim Crone (@tjcrone)
+
 Ryan Abernathey (@rabernat)
 
-.
-.
 
 
--
---
----
-----
------
 <br/><br/><br/><br/><br/><br/><br/><br/>
-
+---
 
 
 
