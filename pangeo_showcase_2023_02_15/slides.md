@@ -81,4 +81,15 @@ https://github.com/tjcrone/talks
  - [https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb](https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb)
 
 
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+## Next Steps
+
+ - A follow-on advanced course is needed badly
+ - More community engagement welcomed!!
+ - [https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm](https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm)
+
+
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+## Questions?
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
 
