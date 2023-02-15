@@ -1,30 +1,25 @@
-<span style="color:blue">some *blue* text</span>
 # Lessons Learned Teaching Pangeo in the Classroom
 
 Pangeo Showcase 15 February 2023
 
 Tim Crone (@tjcrone) and Ryan Abernathey (@rabernat)
 
+https://github.com/tjcrone/talks
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
----
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-
-
-
-
-## Outline
+## Today's Categories
 
  - Book
  - Content and Flow
- - Zero to Xarray
+   - Zero to Xarray
  - Pedagogical Mechanics
+ - Data: Too Real or not Too Real?
  - Other Resources
- - Project Pythia
- - SW Carpentry
+   - Project Pythia
+   - SW Carpentry
  - Platform - Pangeo Yes!
- - The Great Conda Debacle of 2022
+   - The Great Conda Debacle of 2022
  - Grading and Rubrics
  - Final Projects
- - Next Steps
-
+ - Next Steps (Advanced Course)
