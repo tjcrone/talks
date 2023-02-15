@@ -7,7 +7,7 @@ Tim Crone (@tjcrone) and Ryan Abernathey (@rabernat)
 https://github.com/tjcrone/talks
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
 ---
 
 ## Today's Categories
@@ -27,13 +27,17 @@ https://github.com/tjcrone/talks
 
 
 <br/><br/> <br/><br/>
+---
+
 ## Book (Content and Flow)
  - Taking students from Zero to Xarray
  - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
  - Calendar
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+---
+
 ## Pedagogical Mechanics
 
  - Teaching first-year Earth science graduate students
@@ -44,7 +48,9 @@ https://github.com/tjcrone/talks
  - Example session
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+---
+
 ## Platform
 
  - Pangeo ... Yes!
@@ -52,7 +58,9 @@ https://github.com/tjcrone/talks
  - The Great Miniconda/Conda Debacle of 2022
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+---
+
 ## Data: Too Real or Not Too Real?
 
  - Almost real ARGO data: [https://earth-env-data-science.github.io/assignments/numpy_matplotlib.html](https://earth-env-data-science.github.io/assignments/numpy_matplotlib.html)
@@ -62,7 +70,9 @@ https://github.com/tjcrone/talks
  - Currently real data is more of a problem for the instructors than the students
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+---
+
 ## Data: Assignments, Grading, and Rubrics
 
  - Our assignments are pretty difficult!
@@ -71,7 +81,9 @@ https://github.com/tjcrone/talks
  - Rubric example
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+---
+
 ## Final Projects
 
  - Final projects are a highlight of the course and super fun
@@ -81,15 +93,19 @@ https://github.com/tjcrone/talks
  - [https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb](https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb)
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+---
+
 ## Next Steps
 
- - A follow-on advanced course is needed 
+ - A follow-on advanced course is needed
  - More community engagement welcomed!!
  - [https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm](https://github.com/tjcrone/advanced-earth-data-science-book/wiki/Topics-Brainstorm)
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+---
+
 ## Questions?
 <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
 
