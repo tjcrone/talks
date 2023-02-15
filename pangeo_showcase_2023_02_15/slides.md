@@ -58,15 +58,27 @@ https://github.com/tjcrone/talks
 
  - Almost real ARGO data: [https://earth-env-data-science.github.io/assignments/numpy_matplotlib.html](https://earth-env-data-science.github.io/assignments/numpy_matplotlib.html)
  - Real hurricane data from NOAA: [https://earth-env-data-science.github.io/assignments/pandas_groupby.html](https://earth-env-data-science.github.io/assignments/pandas_groupby.html)
+ - Real data is becoming harder to use because account requirements are becoming more common
+ - (This trend is opposite of what Ryan and I have been advocating for many years!)
+ - Currently real data is more of a problem for the instructors than the students
 
 
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+## Data: Assignments, Grading, and Rubrics
+
+ - Our assignments are pretty difficult!
+ - [https://earth-env-data-science.github.io/assignments/more_xarray.html](https://earth-env-data-science.github.io/assignments/more_xarray.html)
+ - Rubrics are detailed but so far have not been made public
+ - Rubric example
 
 
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+## Final Projects
 
-
-
-
-
+ - Final projects are a highlight of the course and super fun
+ - Students develop their own projects based on their scientific interest
+ - [https://earth-env-data-science.github.io/projects.html](https://earth-env-data-science.github.io/projects.html)
+ - [https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb](https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb)
 
 
 
