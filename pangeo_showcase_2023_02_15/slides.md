@@ -6,8 +6,8 @@ Tim Crone (@tjcrone) and Ryan Abernathey (@rabernat)
 
 https://github.com/tjcrone/talks
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/>
+
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
 ## Today's Categories
 
  - Book
@@ -23,3 +23,10 @@ https://github.com/tjcrone/talks
  - Grading and Rubrics
  - Final Projects
  - Next Steps (Advanced Course)
+
+
+<br/><br/> <br/><br/> <br/><br/>
+## Book (Content and Flow)
+ - Taking students from Zero to Xarray
+ - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
+
