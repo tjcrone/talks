@@ -7,9 +7,6 @@ Tim Crone (@tjcrone) and Ryan Abernathey (@rabernat)
 https://github.com/tjcrone/talks
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
----
-
 ## Today's Categories
 
  - Jupyter Book
@@ -26,9 +23,6 @@ https://github.com/tjcrone/talks
    - More Community Engagement!
 
 
-<br/><br/> <br/><br/>
----
-
 ## Book (Content and Flow)
 
  - Used to teach Research Computing in Earth Science at Columbia University
@@ -39,9 +33,6 @@ https://github.com/tjcrone/talks
  - Calendar
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
----
-
 ## Pedagogical Mechanics
 
  - Teaching first-year Earth science graduate students
@@ -51,18 +42,12 @@ https://github.com/tjcrone/talks
  - Example session
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
----
-
 ## Platform
 
  - Pangeo ... Yes! [https://us-central1-b.gcp.pangeo.io/hub/login](https://us-central1-b.gcp.pangeo.io/hub/login)
  - Easy to take Pangeo-like teaching platform for granted
  - The Great Miniconda/Conda Debacle of 2022
 
-
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
----
 
 ## Data: Too Real or Not Too Real?
 
@@ -73,9 +58,6 @@ https://github.com/tjcrone/talks
  - Currently real data is more of a problem for the instructors than the students
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
----
-
 ## Data: Assignments, Grading, and Rubrics
 
  - Our assignments are pretty difficult!
@@ -83,9 +65,6 @@ https://github.com/tjcrone/talks
  - Rubrics are detailed but so far have not been made public
  - Rubric example
 
-
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
----
 
 ## Final Projects
 
@@ -96,9 +75,6 @@ https://github.com/tjcrone/talks
  - [https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb](https://github.com/cjuang/rces-final-project/blob/main/rces-final-project.ipynb)
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
----
-
 ## Next Steps
 
  - A follow-on advanced course is greatly needed
@@ -106,9 +82,4 @@ https://github.com/tjcrone/talks
  - More community engagement welcomed!!
 
 
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
----
-
 ## Feelings?
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/>
-
